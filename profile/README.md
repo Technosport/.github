@@ -1,13 +1,13 @@
 # Technosport amU 🏃‍♂️🔬
 
 > **Plateforme technologique de recherche, d'innovation et d'évaluation au service de la performance sportive, de la santé et du mouvement humain.**  
-> *Faculté des Sciences du Sport — Aix-Marseille Université / Institut des Sciences du Mouvement (ISM UMR 7287 CNRS)*
+> *Institut des Sciences du Mouvement (ISM UMR 7287 CNRS) — Aix-Marseille Université / *
 
 ---
 
 ### 🌐 À propos du Technosport
 
-Le **Technosport amU** est une plateforme technologique universitaire de pointe dédiée à l'analyse biomécanique, physiologique et neuro-comportementale du mouvement humain. Nous concevons et développons des solutions logicielles, des chaînes de traitement automatisées et des applications sur-mesure pour la recherche scientifique et les partenariats R&D industriels.
+Le **Technosport amU** est une plateforme technologique universitaire de pointe dédiée à l'analyse pluridisciplinaire du mouvement humain. Nous concevons et développons des solutions logicielles, des chaînes de traitement et des applications sur-mesure pour la recherche scientifique et la valorisation.
 
 ---
 
