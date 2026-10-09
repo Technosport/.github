@@ -1,4 +1,4 @@
-# Technosport amU 🏃‍♂️🔬
+# Technosport amU 🏃‍♂️
 
 > **Plateforme technologique de recherche, d'innovation et d'évaluation au service de la performance sportive, de la santé et du mouvement humain.**  
 > *Institut des Sciences du Mouvement (ISM UMR 7287 CNRS) — Aix-Marseille Université / *
